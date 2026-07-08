@@ -16,3 +16,5 @@
  
 word-count-notebooks/01- Streaming Word Count.ipynb
 word-count-notebooks/03-Word-Count-Test-Suite.ipynb
+word-count-notebooks/04-Streaming-Word-Count.ipynb
+word-count-notebooks/05-Streaming-Word-Count-Test-Suite.ipynb
